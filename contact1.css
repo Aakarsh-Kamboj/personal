@@ -1,0 +1,42 @@
+body{
+  background-image: url("bg2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #cccccc;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  margin: 10px 0 0 0;
+}
+h1{
+  margin-top: 0;
+  color: #DBE6FD;
+  font-size: 400%;
+}
+img{
+  height: 4%;
+  width: 4%;
+  margin: 30px 30px;;
+}
+p{
+  color: #FFF5B7;
+  font-size: 140%;
+}
+h3{
+  padding: 50px 50px 0 50px;
+  color: #0A81AB;
+  font-size: 140%;
+}
+div{
+  padding-bottom: 5px;
+}
+form{
+  line-height: 3;
+  color: #CAF7E3;
+}
+.su{
+  background-color: #39A9CB;
+  border: none;
+  height: 30px;
+  width: 80px;
+  font-size: 110%
+}

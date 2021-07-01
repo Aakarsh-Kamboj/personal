@@ -1,0 +1,55 @@
+body{
+  background-image: url("bg3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #cccccc;
+  text-align: center;
+  margin: 10px 0 0 0;
+  color: #583D72;
+}
+h1{
+  font-size: 400%;
+  color: #0A1D37;
+}
+.introduction{
+  width: 30%;
+  margin: 30px auto;
+  line-height: 2;
+  padding: 20px;
+  font-size: 140%;
+  text-align: left;
+}
+.j{
+  padding: 0 4px 4px 4px;
+  font-size: 140%;
+  position: absolute;
+  left: 40%;
+  top: 55%;
+}
+.c{
+  padding: 4px;
+  font-size: 140%;
+  position: absolute;
+  left: 39.8%;
+  top: 60%;
+}
+.ad{
+  padding: 4px;
+  font-size: 140%;
+  position: absolute;
+  right: 39.3%;
+  top: 66%;
+}
+.wd{
+  padding: 4px;
+  font-size: 140%;
+  position: absolute;
+  right: 43.7%;
+  top: 72%;
+}
+div{
+  padding-bottom: 10px;
+  position: absolute;
+  bottom: 0;
+  left: 40%;
+}
